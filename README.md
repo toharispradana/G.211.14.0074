@@ -1,9 +1,9 @@
 # FireJak
 :fire_engine: Aplikasi Daftar Pos Pemadam Kebakaran di Jakarta built with VueJS
 
-Tim Project
-Nama : Toha Rispradana 
-NIM : G.211.14.0074
+### Tim Project
++ Nama : Toha Rispradana 
++ NIM : G.211.14.0074
 
 [![License](https://img.shields.io/github/license/mazipan/FireJak.svg?maxAge=3600)](https://github.com/mazipan/FireJak) 
 [![Github Issue](https://img.shields.io/github/issues/mazipan/FireJak.svg?maxAge=3600)](https://github.com/mazipan/FireJak/issues) 
@@ -33,7 +33,7 @@ https://api.jakarta.go.id/
 
 **Hope will usefull for you all.**
 
-## DESKRIPSI PROJECT
+### DESKRIPSI PROJECT
 Apa itu API Jakarta?
 API Jakarta merupakan sebuah layanan yang menyediakan informasi data yang ada di lingkup Pemerintah Provinsi DKI Jakarta. Data ini mencakup semua bidang yang ada di Provinsi DKI Jakarta seperti Kesehatan, Kebersihan, Transportasi, dll. Dengan adanya API Jakarta, maka para developer dapat mengembangkan aplikasi mobile atau website menggunakan API yang tersedia. 
 

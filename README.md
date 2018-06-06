@@ -1,6 +1,9 @@
 # FireJak
 :fire_engine: Aplikasi Daftar Pos Pemadam Kebakaran di Jakarta built with VueJS
 
+Tim Project
+Toha Rispradana G.211.14.0074
+
 [![License](https://img.shields.io/github/license/mazipan/FireJak.svg?maxAge=3600)](https://github.com/mazipan/FireJak) 
 [![Github Issue](https://img.shields.io/github/issues/mazipan/FireJak.svg?maxAge=3600)](https://github.com/mazipan/FireJak/issues) 
 [![GitHub Fork](https://img.shields.io/github/forks/mazipan/FireJak.svg?maxAge=3600)](https://github.com/mazipan/FireJak/network) 
